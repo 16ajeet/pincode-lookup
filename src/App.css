@@ -6,6 +6,10 @@
   font-size: 14;
 }
 
+.form{
+  padding: 20px;
+}
+
 .lookup-button{
   background-color: black;
   color: white;
